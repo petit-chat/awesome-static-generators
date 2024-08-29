@@ -11,6 +11,7 @@ A static web site generator is an application that takes plain text files and co
     *   [CMS](#cms)
     *   [Documentation](#documentation)
     *   [Science](#science)
+    *   [Marketing](#marketing)
     *   [Frameworks](#frameworks)
     *   [Photography](#photography)
     *   [Single Page](#single-page)
@@ -28,30 +29,39 @@ A static web site generator is an application that takes plain text files and co
 
 *   [11ty](https://www.11ty.io/) - Eleventy is a simpler static site generator. - `#JavaScript` `#Node.js`
 *   [ABlog](http://ablog.readthedocs.org/) - A Sphinx extension that converts any documentation or personal website project into a full-fledged blog. - `#Python`
+*   [Adduce](https://adduce.vale.rocks) - A versatile static site generator that handles both blogs and standard pages. - `#Rust`
+*   [Ata's SSG](http://github.com/atas/ssg) - A PHP-based blog-aware vanilla-HTML static site generator for GitHub Pages with markdown support.
+*   [Aurora](https://github.com/capjamesg/aurora) - An extensible, Python-based static site generator with support for jinja2 and markdown templates. - `#Python`
 *   [BashBlog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. - `#Bash`
 *   [Blag](https://github.com/venthur/blag) - blag is a blog-aware, static site generator -- it uses Markdown and is written in Python. - `#Python`
+*   [BlazorStatic](https://github.com/tesar-tech/BlazorStatic) - Use ASP.NET Blazor to generate static pages. - `#.NET` `#C#`
 *   [BlogC++](https://code.rosaelefanten.org/blogcpp/) - A static blog generator, written in C++17. - `#C++`
+*   [Bloggrify](https://bloggrify.com/) - A static blog generator using Markdown, built on top of Nuxt-Content. - `#Vue.js` `#Markdown` 
 *   [Cobalt](https://cobalt-org.github.io) - A Rust static site generator. - `#Rust`
+*   [Coleslaw](https://github.com/coleslaw-org/coleslaw) - Flexible blog and site generator with a lot of plugins. - `#CommonLisp`
 *   [CommonMark Blog for Laravel](https://github.com/spekulatius/laravel-commonmark-blog) - Static generator to use with Laravel projects. Uses CommonMark and FrontMatter to generate and publish files in the `public`-folder. Supports articles as well as listing pages `#PHP`
 *   [Franklin](https://franklinjl.org/) - A static site generator written in Julia that is primarily intended for technical blogging. - `#Julia`
 *   [Gitfolio](https://github.com/imfunniee/gitfolio) - A portfolio website where you could showcase your work + a blog that will help you spread your ideas into real world. - `#Node.js`
+*   [Gozer](https://github.com/dannyvankooten/gozer) - Simple & fast static site generator in a single static binary. - `#Go` `#Golang`
 *   [Hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework. - `#JavaScript` `#Node.js`
 *   [Hyde](https://github.com/hyde/hyde) - `#Python`
+*   [HydePHP](https://github.com/hydephp/hyde) - Elegant and powerful static site generator with rich support for blogs, documentation sites, and more using Markdown and/or Blade - `#PHP` `#Laravel`
 *   [Jamify Gatsby](https://www.jamify.org/) - Publish flaring fast blogs with Gatsby and Ghost. - `#JavaScript` `#React` `#Gastby`
 *   [Jamify NextJS](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost. - `#JavaScript` `#React` `#Next.js`
 *   [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. - `#Ruby`
 *   [Journey](https://github.com/kabukky/journey) - `#Go`
 *   [Makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines) for Python coders `#Python`
-*   [mkws](https://mkws.sh) - A simple static site generator using `sh` as a templating language. `#Bash`
+*   [mkws](https://mkws.sh) - simple static site generator `#sh`
 *   [Nikola](https://getnikola.com/) - `#Python`
 *   [Octopress](https://github.com/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
 *   [Orchid Posts](https://orchid.netlify.app) - Add Jekyll-like blogging functionality to your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 *   [Pelican](https://github.com/getpelican/pelican) - Uses Markdown or ReST for content and Jinja2 for themes. - `#Python`
 *   [PRPL](https://prpl.dev) - A modular static site generator built for longevity - `#TypeScript` `#JavaScript` `#Node.js`
 *   [Qgoda](http://www.qgoda.net/) - Arbitrary taxonomies and cross-links, multi-lingua. - `#Perl`
+*   [Quartz](https://quartz.jzhao.xyz/) - Batteries-included extensible Markdown renderer for your digital garden, complete with GH Pages integration and RSS. - `#TypeScript` `#Node.js`
 *   [Sake](https://github.com/williamd1k0/sake) - A simple static site generator built with make. - `#make` `#Jinja2`
 *   [Serum](https://dalgona.github.io/Serum/) - Serum is a static website generator written in Elixir Programming Language. - `#Elixir`
-*   [Sphido](https://sphido.org/) - A rocket 🚀 fast, lightweight, static site generator `#Node.js`
+*   [Sphido](https://sphido.cz) - A rocket 🚀 fast, lightweight, static site generator `#Node.js`
 *   [Spress](https://github.com/spress/Spress/) - `#PHP`
 *   [Stapy](https://www.stapy.net) - Works without any additional package and without command line on Windows. - `#Python`
 *   [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
@@ -62,6 +72,7 @@ A static web site generator is an application that takes plain text files and co
 
 ### CMS
 
+*   [Arise](https://ari.se.net) - A 90s-web inspired Bash static site generator designed around slow-moving stable dependencies, modular page hierarchy, and cloud-native CI deployment. - `#Bash`
 *   [Datenstrom Yellow](https://datenstrom.se/yellow/) - For people who make small websites. - `#PHP`
 *   [Lektor](https://www.getlektor.com/) - An easy to use static CMS and blog engine. - `#Python`
 *   [Primo](https://primo.so) - An all-in-one static site builder. - `#Svelte` `#Electron`
@@ -85,6 +96,10 @@ A static web site generator is an application that takes plain text files and co
 
 *   [Curvenote](https://curvenote.com/docs/web) - Build scientific and technical websites for books, preprints, papers and reports using MyST Markdown and Jupyter Notebooks - `#Node.js`
 
+### Marketing
+
+*   [Milou](https://github.com/Tsukumogami-Software/milou) - Create beautiful and informative press kits to showcase your company and products to the medias - `#Node.js`
+
 ### Code Playground
 
 *   [CodeStage](https://github.com/shi-yan/codestage) - A static site generator to create javascript playgrounds / interactive demos.
@@ -100,6 +115,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Capro](https://github.com/xy2z/capro) - Flexible PHP8 static site generator, using Blade template engine. - `#PHP` `#Blade`
 *   [coil](https://github.com/badosu/coil) - `#elixir`
 *   [Complexity](http://complexity.readthedocs.org/en/latest/) - For those who like to work in HTML. - `#Python`
+*   [ConstexprJS](https://amokfa.github.io/posts/constexprjs.html) - Evaluate and struo JS in your website ahead of time. - `#JavaScript`
 *   [Cuttlebelle](https://cuttlebelle.com/) - The react static site generator that separates editing and code concerns. - `#JavaScript` `#Node.js` `#React.js`
 *   [Dewar](https://github.com/tfpk/dewar) - A flask-like static site generator. - `#Python`
 *   [Elder.js](https://elderguide.com/tech/elderjs/) - An opinionated, SEO focused, static site generator for Svelte.js. - `#JavaScript` `#Node.js` `#Svelte.js`
@@ -125,6 +141,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Pagegen](http://pagegen.phnd.net/) - `#Python`
 *   [Phenomic](https://phenomic.io/) - Modern static website generator based on the React and Webpack ecosystem. - `#Javascript` `#Node.js` `#React.js`
 *   [Publish](https://github.com/JohnSundell/Publish) - enables entire websites to be built using Swift, and supports themes, plugins and tons of other powerful customization options - `#Swift`
+*   [Quarto](https://quarto.org/) - An open-source scientific and technical publishing system with literate programming in multiple languages.
 *   [React Static](https://github.com/nozzle/react-static) - A progressive static-site framework for React. - `#React.js`
 *   [Scully](https://github.com/scullyio/scully) - The Static Site Generator for Angular apps. - `#TypeScript` `#Angular`
 *   [Sculpin](https://sculpin.io/) - `#PHP`
@@ -139,6 +156,7 @@ A static web site generator is an application that takes plain text files and co
 *   [VuePress](https://vuepress.vuejs.org/) - Vue.js powered static site generator. - `#JavaScript`
 *   [webgen](http://webgen.gettalong.org/) - `#Ruby`
 *   [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
+*   [wmk](https://github.com/bk/wmk) - Flexible and versatile, uses Mako templates - `#Python`
 *   [yst](https://github.com/jgm/yst) - Powered by YAML. - `#Haskell`
 *   [Zola](https://www.getzola.org) - Rust powered static site generator - `#Rust`
 
@@ -168,6 +186,7 @@ A static web site generator is an application that takes plain text files and co
 
 ## Helpful Tools and Services
 
+*   [Cloud 66](https://www.cloud66.com/) - Builds and deploys static websites to your own cloud account. 
 *   [Formspree](http://www.formspree.io/) - Adds functional forms to your static web sites.
 *   [git-annex](http://git-annex.branchable.com/tips/setup_a_public_repository_on_a_web_site/) - Configure git-annex for a public repository for a static web site.
 *   [JAMStack Themes](https://jamstackthemes.dev/) - A collection of themes filterable by static site generator and CMS support.
@@ -178,8 +197,10 @@ A static web site generator is an application that takes plain text files and co
 *   [AWS S3](http://aws.amazon.com/s3/)
 *   [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/)
 *   [GitLab Pages](https://about.gitlab.com/product/pages/)
+*   [Kinsta Static Site Hosting](https://kinsta.com/static-site-hosting/)
 *   [Netlify](https://www.netlify.com/)
 *   [Surge](https://surge.sh/)
+*   [Vercel](https://vercel.com)
 
 ## Other Lists of Static Web Site Generators
 
